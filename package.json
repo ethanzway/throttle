@@ -1,0 +1,6 @@
+{
+  "name": "throttle",
+  "description": "A function throttle polyfill.",
+  "version": "0.0.1",
+  "main": "index.js"
+}
